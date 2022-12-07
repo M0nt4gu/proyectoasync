@@ -1,0 +1,24 @@
+{
+  "name": "js-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d src"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Montagu",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+
+}
